@@ -1,8 +1,8 @@
 {
     "name": "BIDOU",
-    "symbol": "BIDOU",
+    "symbol": "WEB3 BIDOU",
     "description": "BIDOU focuses on Web3 games, puzzles, and children's education",
-    "image": "https://raw.githubusercontent.com/mtanxchen/bidou/main/info/icon.png",
+    "image": "https://raw.githubusercontent.com/mtanxchen/bidou/main/info/icon.jpg",
     "attributes": [
       {
         "trait_type": "Item",
